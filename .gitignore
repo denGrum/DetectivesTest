@@ -1,5 +1,5 @@
 # Default ignored files
 /shelf/
-/.idea/
-/.allure/
+.idea
+.allure
 /target/
