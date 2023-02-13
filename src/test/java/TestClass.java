@@ -1,5 +1,5 @@
 import com.fasterxml.jackson.databind.json.JsonMapper;
-import core.data.JSONPaths;
+import core.data.constants.JSONPaths;
 import core.pojo.Category;
 import core.pojo.Detective;
 import core.pojo.Detectives;
